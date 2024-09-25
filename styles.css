@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+    background-color: rgba(219, 219, 219, 0.949);
+}
+
+
+header {
+    background-color: white;
+    padding: 12px 0;
+    
+}
+
+
+header h1{
+    margin: 0;
+}
+
+div.igPost {
+    background-color: white;
+    margin-top: 50px;
+}
+div p {
+    margin: 8px;
+}
+
+div.igPost img {
+    width: 100%;
+}
+
+div.igPost h2, div.igPost p {
+    padding: 8px;
+}
+
+div.container {
+    margin: auto;
+    width: 500px;
+}
+
+div.postHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+}
+
+div.dateS{
+    color: rgb(213, 209, 209);
+    margin: 0 8px 0 0;
+}
